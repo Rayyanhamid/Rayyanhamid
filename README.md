@@ -1,6 +1,13 @@
 # Hi, I'm Rayyan!
 
 # 💫 About Me :
+👨🏼‍💻 Aspiring Software Engineer and Full Stack Web & App Developer
+👨🏼‍🎓 Computer Science Student at Dawood University Of Engineering And Technology (DUET)
+🌱 Currently Learning: MERN Stack & React Native Development
+💬 Passionate About: AI & Machine Learning
+🤝 Looking to Collaborate: Not currently, focusing on learning and growing.
+🚀 Goals: Build innovative web and app solutions while mastering AI and ML.
+📫 You can reach me through my email rayyanhamid111@gamil.com . I check my mails on regular basis.
 
 
 
