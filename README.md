@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 java script , css, mysql,c++,html,react,OOPs,python <br>
 
